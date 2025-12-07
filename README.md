@@ -9,7 +9,7 @@
 
 ## 🌱 Learning about...
 
-- AI, Reinforced Learning
+- Applied ML & Reinforcement Learning
 - Game development fundamentals (Godot)
 - Japanese 🇯🇵 (slowly and painfully)
 
