@@ -1,5 +1,6 @@
 # 💫 About Me:
 🖥️ Master's student in Computer Engineering @unibo
+🌌 Still figuring out what to do in my life, one bug at a time
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valentina-bacchelli) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23055445) 
