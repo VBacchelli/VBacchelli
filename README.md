@@ -1,5 +1,6 @@
 # 💫 About Me:
 🖥️ Master's student in Computer Engineering @unibo
+
 🌌 Still figuring out what to do in my life, one bug at a time
 
 ## 🌐 Socials:
