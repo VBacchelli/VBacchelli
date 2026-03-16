@@ -11,8 +11,8 @@
 
 ## 🌱 Learning about...
 
-- Applied ML & Reinforcement Learning
-- Game development fundamentals (Godot)
+- Applied ML & Reinforcement Learning 🤖
+- Game development fundamentals 🎮 (Godot)
 - Japanese 🇯🇵 (slowly and painfully)
 
 ## 🩵 Interests
