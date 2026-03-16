@@ -16,7 +16,7 @@
 - Japanese 🇯🇵 (slowly and painfully)
 
 ## 🩵 Interests
-Anime & manga 🇯🇵 | Books 📚 | Videogames 🎮 | TTRPGs 🎲 | Drawing ✏️ | Crochet 🧶 | Languages 🌍
+Anime & manga 🇯🇵 | Books 📚 | Videogames 🎮 | Tabletop RPGs (D&D and more) 🎲 | Drawing ✏️ | Crochet 🧶 | Languages 🌍
 
 <!--# 📊 GitHub Stats:-->
 <!--![](https://github-readme-stats.vercel.app/api?username=VBacchelli&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
